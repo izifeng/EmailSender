@@ -1,0 +1,20 @@
+E:\.NET 项目\EmailSender\Utils\bin\Release\Utils.dll
+E:\.NET 项目\EmailSender\Utils\bin\Release\Utils.pdb
+E:\.NET 项目\EmailSender\Utils\bin\Release\Aspose.Cells.dll
+E:\.NET 项目\EmailSender\Utils\bin\Release\Models.dll
+E:\.NET 项目\EmailSender\Utils\bin\Release\Models.pdb
+E:\.NET 项目\EmailSender\Utils\obj\Release\Utils.csprojResolveAssemblyReference.cache
+E:\.NET 项目\EmailSender\Utils\obj\Release\Interop.Office.dll
+E:\.NET 项目\EmailSender\Utils\obj\Release\Utils.csproj.ResolveComReference.cache
+E:\.NET 项目\EmailSender\Utils\obj\Release\Utils.dll
+E:\.NET 项目\EmailSender\Utils\obj\Release\Utils.pdb
+D:\myProject\EmailSender\Utils\bin\Release\Utils.dll
+D:\myProject\EmailSender\Utils\bin\Release\Utils.pdb
+D:\myProject\EmailSender\Utils\bin\Release\Aspose.Cells.dll
+D:\myProject\EmailSender\Utils\bin\Release\Models.dll
+D:\myProject\EmailSender\Utils\bin\Release\Models.pdb
+D:\myProject\EmailSender\Utils\obj\Release\Utils.csprojResolveAssemblyReference.cache
+D:\myProject\EmailSender\Utils\obj\Release\Utils.csproj.ResolveComReference.cache
+D:\myProject\EmailSender\Utils\obj\Release\Utils.dll
+D:\myProject\EmailSender\Utils\obj\Release\Utils.pdb
+D:\myProject\EmailSender\Utils\obj\Release\Interop.Office.dll

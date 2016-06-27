@@ -1,0 +1,32 @@
+E:\.NET 项目\EmailSender\MailSender\bin\Release\MailSender.exe.config
+E:\.NET 项目\EmailSender\MailSender\bin\Release\MailSender.exe
+E:\.NET 项目\EmailSender\MailSender\bin\Release\MailSender.pdb
+E:\.NET 项目\EmailSender\MailSender\bin\Release\Models.dll
+E:\.NET 项目\EmailSender\MailSender\bin\Release\Utils.dll
+E:\.NET 项目\EmailSender\MailSender\bin\Release\Models.pdb
+E:\.NET 项目\EmailSender\MailSender\bin\Release\Utils.pdb
+E:\.NET 项目\EmailSender\MailSender\obj\Release\MailSender.csprojResolveAssemblyReference.cache
+E:\.NET 项目\EmailSender\MailSender\obj\Release\MailSender.configForm.resources
+E:\.NET 项目\EmailSender\MailSender\obj\Release\MailSender.contentForm.resources
+E:\.NET 项目\EmailSender\MailSender\obj\Release\MailSender.main.resources
+E:\.NET 项目\EmailSender\MailSender\obj\Release\MailSender.Properties.Resources.resources
+E:\.NET 项目\EmailSender\MailSender\obj\Release\MailSender.csproj.GenerateResource.Cache
+E:\.NET 项目\EmailSender\MailSender\obj\Release\MailSender.exe
+E:\.NET 项目\EmailSender\MailSender\obj\Release\MailSender.pdb
+D:\myProject\EmailSender\MailSender\bin\Release\MailSender.exe.config
+D:\myProject\EmailSender\MailSender\bin\Release\MailSender.exe
+D:\myProject\EmailSender\MailSender\bin\Release\MailSender.pdb
+D:\myProject\EmailSender\MailSender\bin\Release\Models.dll
+D:\myProject\EmailSender\MailSender\bin\Release\Utils.dll
+D:\myProject\EmailSender\MailSender\bin\Release\Aspose.Cells.dll
+D:\myProject\EmailSender\MailSender\bin\Release\Models.pdb
+D:\myProject\EmailSender\MailSender\bin\Release\Utils.pdb
+D:\myProject\EmailSender\MailSender\obj\Release\MailSender.csprojResolveAssemblyReference.cache
+D:\myProject\EmailSender\MailSender\obj\Release\MailSender.configForm.resources
+D:\myProject\EmailSender\MailSender\obj\Release\MailSender.contentForm.resources
+D:\myProject\EmailSender\MailSender\obj\Release\MailSender.main.resources
+D:\myProject\EmailSender\MailSender\obj\Release\MailSender.Properties.Resources.resources
+D:\myProject\EmailSender\MailSender\obj\Release\MailSender.csproj.GenerateResource.Cache
+D:\myProject\EmailSender\MailSender\obj\Release\MailSender.exe
+D:\myProject\EmailSender\MailSender\obj\Release\MailSender.pdb
+D:\myProject\EmailSender\MailSender\obj\Release\MailSender.selectModel.resources

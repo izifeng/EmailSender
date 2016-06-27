@@ -1,0 +1,9 @@
+E:\.NET 项目\EmailSender\EmailModel\bin\Debug\Models.dll
+E:\.NET 项目\EmailSender\EmailModel\bin\Debug\Models.pdb
+E:\.NET 项目\EmailSender\EmailModel\obj\Debug\Models.dll
+E:\.NET 项目\EmailSender\EmailModel\obj\Debug\Models.pdb
+D:\myProject\EmailSender\EmailModel\bin\Debug\Models.dll
+D:\myProject\EmailSender\EmailModel\bin\Debug\Models.pdb
+D:\myProject\EmailSender\EmailModel\obj\Debug\Models.dll
+D:\myProject\EmailSender\EmailModel\obj\Debug\Models.pdb
+D:\myProject\EmailSender\EmailModel\obj\Debug\Models.csprojResolveAssemblyReference.cache

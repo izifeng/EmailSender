@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ConfigRoot>
+  <Config>
+    <SenderEmail>rlyangfei@mail.39.net</SenderEmail>
+    <EmailPwd>123456</EmailPwd>
+    <IsSaveEmail>True</IsSaveEmail>
+  </Config>
+</ConfigRoot>

@@ -1,0 +1,20 @@
+E:\.NET 项目\EmailSender\Utils\bin\Debug\Utils.dll
+E:\.NET 项目\EmailSender\Utils\bin\Debug\Utils.pdb
+E:\.NET 项目\EmailSender\Utils\bin\Debug\Models.dll
+E:\.NET 项目\EmailSender\Utils\bin\Debug\Models.pdb
+E:\.NET 项目\EmailSender\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+E:\.NET 项目\EmailSender\Utils\obj\Debug\Interop.Office.dll
+E:\.NET 项目\EmailSender\Utils\obj\Debug\Utils.csproj.ResolveComReference.cache
+E:\.NET 项目\EmailSender\Utils\obj\Debug\Utils.dll
+E:\.NET 项目\EmailSender\Utils\obj\Debug\Utils.pdb
+E:\.NET 项目\EmailSender\Utils\bin\Debug\Aspose.Cells.dll
+D:\myProject\EmailSender\Utils\bin\Debug\Utils.dll
+D:\myProject\EmailSender\Utils\bin\Debug\Utils.pdb
+D:\myProject\EmailSender\Utils\bin\Debug\Aspose.Cells.dll
+D:\myProject\EmailSender\Utils\bin\Debug\Models.dll
+D:\myProject\EmailSender\Utils\bin\Debug\Models.pdb
+D:\myProject\EmailSender\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+D:\myProject\EmailSender\Utils\obj\Debug\Utils.csproj.ResolveComReference.cache
+D:\myProject\EmailSender\Utils\obj\Debug\Utils.dll
+D:\myProject\EmailSender\Utils\obj\Debug\Utils.pdb
+D:\myProject\EmailSender\Utils\obj\Debug\Interop.Office.dll
